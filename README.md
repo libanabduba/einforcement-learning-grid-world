@@ -12,7 +12,7 @@ A reinforcement learning project solving the Grid World problem using algorithms
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/libanabduba/reinforcement-learning-grid-world.git
    cd your-repository
 
 2. Create and activate a virtual environment:
